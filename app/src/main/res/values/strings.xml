@@ -1,0 +1,8 @@
+<resources>
+    <string name="headline_text">Toggle Button Example</string>
+    <string name="app_name">ToggleButton</string>
+    <string name="toggle_on">Yes, I\'m on</string>
+    <string name="toggle_off">Oh, I\'m off</string>
+    <string name="btn_display">Display it</string>
+    <string name="btn_toggle_button_1">Toggle Button</string>
+</resources>
